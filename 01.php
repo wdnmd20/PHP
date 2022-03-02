@@ -1,3 +1,4 @@
 <?php
-echo 'Hello, world!';
+echo 'Hello, world!' . '<br>';
+printf 'I love this part, from %d yo me.', 20
 ?>
