@@ -1,4 +1,4 @@
-# Calcould
+# 博のPHP世界
 
 [![](https://img.shields.io/github/watchers/Crzq/PHP.svg?style=flat)](https://github.com/Crzq/PHP/watchers)
 [![](https://img.shields.io/github/stars/Crzq/PHP.svg?style=flat)](https://github.com/Crzq/PHP/stargazers)
@@ -7,10 +7,8 @@
 ![](https://img.shields.io/github/repo-size/Crzq/PHP.svg?style=flat)
 [![Documentation Status](https://readthedocs.org/projects/PHP/badge/?version=latest)](https://PHP.readthedocs.io/en/latest/?badge=latest)
 
-受[清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)启发，创立了本项目。
-
 由于本仓库未启用`git-lfs`，因此请不要上传单个超过100M的文件，否则commit无效。
 
 若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
 
-感谢对本项目贡献的同学：[yangcang233](https://github.com/yangcang233)、[Crzq](https://github.com/Crzq)
+感谢对本项目贡献的同学：[Crzq](https://github.com/Crzq)
