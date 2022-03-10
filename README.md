@@ -5,7 +5,6 @@
 [![](https://img.shields.io/github/forks/Crzq/PHP.svg?style=flat)](https://github.com/Crzq/PHP/network/members)
 [![](https://img.shields.io/github/issues-pr-closed-raw/Crzq/PHP.svg?style=flat)](https://github.com/Crzq/PHP/issues)
 ![](https://img.shields.io/github/repo-size/Crzq/PHP.svg?style=flat)
-[![Documentation Status](https://readthedocs.org/projects/PHP/badge/?version=latest)](https://PHP.readthedocs.io/en/latest/?badge=latest)
 
 由于本仓库未启用`git-lfs`，因此请不要上传单个超过100M的文件，否则commit无效。
 
