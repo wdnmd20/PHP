@@ -10,4 +10,5 @@
 
 若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
 
-感谢对本项目贡献的同学：[Crzq](https://github.com/Crzq)
+感谢对本项目贡献的同学：[Crzq](https://github.com/Crzq)<br>
+<a title="Crzq" href="https://github.com/Crzq"><img src="https://avatars.githubusercontent.com/u/41958119?v=4" width="100" alt="profile picture of Crzq"></a>
